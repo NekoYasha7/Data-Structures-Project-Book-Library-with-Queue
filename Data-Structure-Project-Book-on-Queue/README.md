@@ -16,7 +16,9 @@
 
 
 <hr>
-#### This project can be used for study purposes. Feel free to contribute to it.
+ <b>📖This project can be used for study purposes. Feel free to contribute to it.</b>
+
 *There are spelling errors in some code that will be corrected soon:*
-   > "ISBN" is written as "IBSN".
-   > "Publication Date" is written as "Publicatio Date".
+> "ISBN" is written as "IBSN".
+
+> "Publication Date" is written as "Publicatio Date".
